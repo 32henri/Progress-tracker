@@ -4,8 +4,6 @@ A personal, gamified progress-tracking app — turns tasks, habits, vices, skill
 workouts into an RPG-style character sheet (stats, XP, levels, streaks). Single-user, built
 as an installable PWA.
 
-Dark theme only — this is intentional, not a default left unconfigured.
-
 ## Tech stack
 
 - **React 19** + **Vite 8**
