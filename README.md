@@ -1,4 +1,4 @@
-# Progress Tracker
+# Progress Tracker (not finished)
 
 A personal, gamified progress-tracking app — turns tasks, habits, vices, skills, goals, and
 workouts into an RPG-style character sheet (stats, XP, levels, streaks). Single-user, built
